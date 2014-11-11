@@ -1,7 +1,3 @@
-/*
- Block Quote
- */
-
 SirTrevor.Blocks.AttributePositioning = (function () {
 
     var template = _.template([
